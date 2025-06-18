@@ -1,0 +1,28 @@
+body{
+   background-color: rgb(3, 144, 168);
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20210323/pngtree-asymmetry-simple-white-abstract-cv-image_591339.jpg);
+   background-repeat: no-repeat;
+   background-size:100%;
+}
+
+ul {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding: 0;
+   margin: 0;
+   list-style: none;
+}
+
+
+h2{
+   color: rgb(255, 255, 255);
+   display: flex;
+}
+
+form{
+   display:flex;
+   flex-direction: column;
+   gap: 10px;
+}
